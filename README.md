@@ -1,7 +1,7 @@
 TraerPhysicsCPP
 ===============
 
-This is the C++ port of the Traer Physics Library by Jeff. The original processing library can be obtained from http://murderandcreate.com/physics/. 
+This is the C++ port of the Processing Traer Physics Library by Jeff. The original processing library can be obtained from http://murderandcreate.com/physics/. 
 
 Project Dependencies
 ====================
