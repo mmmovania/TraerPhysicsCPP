@@ -21,7 +21,7 @@ Here are a few snapshots of demos made with this library.
 
 
 Balls:
-![alt text](Images/BouncyBalls.png Bouncy "Balls")
+![alt text](Images/BouncyBalls.png "Balls")
 
 
 Box:
