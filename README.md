@@ -19,38 +19,13 @@ Demo Screenshots
 ================
 Here are a few snapshots of demos made with this library.
 
-Bouncy Balls
-![alt tag](Images/BouncyBalls.png)
-
-
-Box 
-![alt tag](Images/Box.png)
-
-
-
-Cloth
-![alt tag](Images/Cloth.png)
-
-
-
-Cloud
-![alt tag](Images/Cloud.png)
-
-
-
-Pendulum
-![alt tag](Images/Pendulum.png)
-
-
-
-RandomArboretum
-![alt tag](Images/RandomArboretum.png)
-
-
-
-Tendrils
-![alt tag](Images/Tendrils.png)
-
+![alt tag](Images/BouncyBalls.png Bouncy "Balls")
+![alt tag](Images/Box.png "Box")
+![alt tag](Images/Cloth.png "Cloth")
+![alt tag](Images/Cloud.png "Cloud")
+![alt tag](Images/Pendulum.png "Pendulum")
+![alt tag](Images/RandomArboretum.png "RandomArboretum")
+![alt tag](Images/Tendrils.png "Tendrils")
 
 Comments/Corrections/Feedback
 =============================
