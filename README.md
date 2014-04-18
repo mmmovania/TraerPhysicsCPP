@@ -13,8 +13,37 @@ The project requires two libraries
    
 Compiling the library
 =====================
-After downloading and unzipping freeglut and glm libraries to a common folder. I usually put all my libraries in a common Libraries folder. Build freeglut on your machine. There is no need to build glm as it is a headers only library. Next, create an environment variable called LIBRARIES_ROOT that points to the Libraries root folder. Then, open the VisualStudio 2012 project file TraerPhysics.sln in the TraerPhysics folder on the root. Compile and run and it should compile and run fine. Demo projects are available in the Demos directory.
+After downloading, unzip freeglut and glm libraries to a common folder. I usually put all my libraries in a common Libraries folder. Then open the freeglut project in VisualStudio and build the freeglut librar on your machine. There is no need to build glm as it is a headers only library. Next, create an environment variable LIBRARIES_ROOT that points to the Libraries root folder. Then, open the VisualStudio 2012 project file TraerPhysics.sln in the TraerPhysics folder on the root. Compile and run and it should compile and run fine. Demo projects are located in the Demos directory. Open the corresponding project for details.
 
-That's it Enjoy !!!
+Demo Screenshots
+================
+Here are a few snapshots of demos made with this library.
+
+Bouncy Balls
+![alt tag](Images/BouncyBalls.png)
+
+Box
+![alt tag](Images/Box.png)
+
+Cloth
+![alt tag](Images/Cloth.png)
+
+Cloud
+![alt tag](Images/Cloud.png)
+
+Pendulum
+![alt tag](Images/Pendulum.png)
+
+RandomArboretum
+![alt tag](Images/RandomArboretum.png)
+
+Tendrils
+![alt tag](Images/Tendrils.png)
+
+Comments/Corrections/Feedback
+=============================
+If you have made any new interesting demos, please share them with me by either forking it or email me at mova0002[at]e[dot]ntu[dot]edu[dot]sg
+
+Enjoy !!!
 
 
