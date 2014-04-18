@@ -13,8 +13,7 @@ The project requires two libraries
    
 Compiling the library
 =====================
-
-Open the VisualStudio 2012 project file TraerPhysics.sln in the TraerPhysics folder on the root. Compile and run and it should compile and run fine. Demo projects are available in the Demos directory.
+After downloading and unzipping freeglut and glm libraries to a common folder. I usually put all my libraries in a common Libraries folder. Build freeglut on your machine. There is no need to build glm as it is a headers only library. Next, create an environment variable called LIBRARIES_ROOT that points to the Libraries root folder. Then, open the VisualStudio 2012 project file TraerPhysics.sln in the TraerPhysics folder on the root. Compile and run and it should compile and run fine. Demo projects are available in the Demos directory.
 
 That's it Enjoy !!!
 
