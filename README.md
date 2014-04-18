@@ -22,23 +22,35 @@ Here are a few snapshots of demos made with this library.
 Bouncy Balls
 ![alt tag](Images/BouncyBalls.png)
 
-Box
+
+Box 
 ![alt tag](Images/Box.png)
+
+
 
 Cloth
 ![alt tag](Images/Cloth.png)
 
+
+
 Cloud
 ![alt tag](Images/Cloud.png)
+
+
 
 Pendulum
 ![alt tag](Images/Pendulum.png)
 
+
+
 RandomArboretum
 ![alt tag](Images/RandomArboretum.png)
 
+
+
 Tendrils
 ![alt tag](Images/Tendrils.png)
+
 
 Comments/Corrections/Feedback
 =============================
